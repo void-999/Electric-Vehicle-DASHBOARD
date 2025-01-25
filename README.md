@@ -12,7 +12,7 @@ This Tableau dashboard provides a comprehensive analysis of the electric vehicle
 - Top Manufacturer by Volume: Tesla (68,939 vehicles; 54.10%)
 
 
-    Features
+      Features
 - Total Vehicles by Model Year:
 
 - A line chart displaying the yearly trend of vehicle registrations, highlighting a significant growth from 2012 to 2023 and a slight dip in 2024.
@@ -30,29 +30,29 @@ Top Vehicle Models by Volume:
 - A table summarizing vehicle models, such as Tesla Model Y and Model 3, by their total count and percentage of total vehicles.
 
 
-    Insights
-Market Dominance:
+      Insights
+- Market Dominance:
 Tesla is the market leader, accounting for over half of the vehicles (54.10%). Models like the Model Y and Model 3 are the most popular.
 
-Regional Trends:
+- Regional Trends:
 California has the highest number of EV registrations, reflecting its leadership in EV adoption.
 
-Year-on-Year Growth:
+-  Year-on-Year Growth:
 EV adoption has grown significantly, peaking in 2023 with 37,100 vehicles.
 
-Vehicle Types:
+- Vehicle Types:
 BEVs dominate the market, comprising 77.6% of total vehicles.
 
-CAFV Eligibility:
+- CAFV Eligibility:
 Nearly 46.41% of the vehicles are CAFV-eligible, while a large portion remains under the unknown category.
 
 
-    Conclusion
+      Conclusion
 This dashboard provides critical insights into the electric vehicle ecosystem. It helps identify:
 
-Leading manufacturers and models driving EV adoption.
-Geographic trends in EV adoption across states.
-Year-on-year growth patterns and areas for further adoption.
+- Leading manufacturers and models driving EV adoption.
+- Geographic trends in EV adoption across states.
+-  Year-on-year growth patterns and areas for further adoption.
 
 
 *The tool is an essential resource for policymakers, automotive manufacturers, and market analysts looking to strategize EV adoption and production.
